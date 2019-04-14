@@ -58,7 +58,7 @@ The state for the first agent looks like: [ 0.          0.          0.          
 
 ## Multi-Agent Deep Deterministic Policy Gradient (MADDPG)
 
-I used MADDPG algorithm - which is explained in **_Continuous Control with Deep Reinforcement Learning_** [paper](https://arxiv.org/pdf/1509.02971.pdf) by **Google Deepmind** - to solve the environment. This is _a model-free, off-policy actor-critic algorithm using deep function approximators that can learn policies in high-dimensional, continuous action spaces_. This is an extension of Deep Q-learning specialized for continuous tasks. A [single-agent DDPG implementation](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum) to solve OpenAI Gym's Pendulum environment is used as a base point to start my implementation.
+I used the DDPG algorithm as a base - which is explained in **_Continuous Control with Deep Reinforcement Learning_** [paper](https://arxiv.org/pdf/1509.02971.pdf) by **Google Deepmind** - to implement MADDPG algorithm and hence to solve the environment. This is _a model-free, off-policy actor-critic algorithm using deep function approximators that can learn policies in high-dimensional, continuous action spaces_. This is an extension of Deep Q-learning specialized for continuous tasks. A [single-agent DDPG implementation](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum) to solve OpenAI Gym's Pendulum environment is used as a base point to start my implementation.
 
 Further details about vanilla DDPG algorithm are outlined in the following sub-sections;
 
