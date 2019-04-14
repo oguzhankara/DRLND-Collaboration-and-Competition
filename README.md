@@ -1,5 +1,7 @@
 # DRLND-Collaboration-and-Competition
-The third project from Udacity Deep Reinforcement Learning Nanodegree
+Deep Reinforcement Learning Nanodegree Program
+
+_The third project from Udacity Deep Reinforcement Learning Nanodegree_
 
 # Multi-Agent Collaboration and Competition | RL Agents Play Tennis
 ##### &nbsp;
